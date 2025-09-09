@@ -139,8 +139,8 @@ Desktop.ini
 
 # AI/ML specific
 *.h5
-*.pkl
-*.pickle
+#*.pkl
+#*.pickle
 models/
 data/raw/
 data/processed/
